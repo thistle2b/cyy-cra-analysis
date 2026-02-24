@@ -142,7 +142,10 @@ def extract_timeline(text: str) -> list[dict]:
             context = re.sub(r"^\|.*?\|", "", context).strip()
             context = re.sub(r"\|$", "", context).strip()
             if context:
-                dates.append({"date": m.group(1), "context": context[:200], "line": i + 1})
+                # Truncate at word boundary
+                if len(context) > 200:
+                    context = context[:200].rsplit(" ", 1)[0] + "…"
+                dates.append({"date": m.group(1), "context": context, "line": i + 1})
     # Deduplicate by date
     seen = set()
     unique_dates = []

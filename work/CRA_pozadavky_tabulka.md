@@ -136,11 +136,27 @@
 
 ## J. SANKCE – Článek 64
 
-| # | Typ porušení | Sankce |
-|---|-------------|--------|
-| 75 | Nesplnění přílohy I nebo čl. 13, 14 | Až 15 000 000 EUR / 2,5 % obratu |
-| 76 | Porušení jiných povinností | Až 10 000 000 EUR / 2 % obratu |
-| 77 | Nepřesné/zavádějící informace | Až 5 000 000 EUR / 1 % obratu |
+> **DŮLEŽITÉ:** Čl. 64(2) stanoví pokutu „až do výše 15 000 000 EUR, nebo dopustí-li se porušení podnik, až do výše 2,5 % jeho celkového ročního obratu celosvětově za předchozí finanční rok **podle toho, která hodnota je VYŠŠÍ**."
+>
+> To znamená, že i pro mikropodnik s obratem 120 000 EUR je maximální pokuta 15 000 000 EUR (ne 2,5 % z obratu). Formulace „podle toho, co je vyšší" zajišťuje, že velké firmy nemohou platit symbolické pokuty, ale zároveň znamená, že strop pro malé firmy je teoreticky nepřiměřeně vysoký v poměru k jejich obratu.
+
+| # | Typ porušení | Sankce (dle čl. 64) | Princip výpočtu |
+|---|-------------|--------|-----------------|
+| 75 | Nesplnění přílohy I nebo čl. 13, 14 | Až 15 000 000 EUR nebo 2,5 % obratu | **Podle toho, co je VYŠŠÍ** |
+| 76 | Porušení jiných povinností | Až 10 000 000 EUR nebo 2 % obratu | **Podle toho, co je VYŠŠÍ** |
+| 77 | Nepřesné/zavádějící informace | Až 5 000 000 EUR nebo 1 % obratu | **Podle toho, co je VYŠŠÍ** |
+
+### Příklad dopadu na firmy různé velikosti
+
+| Obrat firmy | Max. pokuta (čl. 64(2)) | Poměr k obratu |
+|-------------|------------------------|----------------|
+| 120 000 EUR (3M CZK) | 15 000 000 EUR | 12 500 % obratu |
+| 1 000 000 EUR | 15 000 000 EUR | 1 500 % obratu |
+| 10 000 000 EUR | 15 000 000 EUR | 150 % obratu |
+| 600 000 000 EUR | 15 000 000 EUR | 2,5 % obratu |
+| 1 000 000 000 EUR | 25 000 000 EUR | 2,5 % obratu |
+
+> **Poznámka:** Maximální pokuta je STROP, ne automatická sazba. Reálná výše pokuty závisí na závažnosti, úmyslu, spolupráci s dozorem, nápravných opatřeních a dalších faktorech. Před pokutou typicky přichází varování a lhůta k nápravě. Nicméně samotná existence tohoto stropu představuje pro mikropodniky existenční riziko.
 
 ## K. ČASOVÁ OSA
 
